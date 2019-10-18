@@ -1,1 +1,2 @@
 # Galaxy
+print'hello world!'
